@@ -1,4 +1,4 @@
-# 📄 RAG with LlamaIndex and Docling
+# RAG with LlamaIndex and Docling
 
 > Ask questions about your documents locally - no cloud APIs needed. Upload PDFs, Word docs, or PowerPoints and get accurate answers powered by Ollama LLMs. Features semantic chunking via Docling, vector search with reranking, and both a web UI (Gradio) and REST API (FastAPI).
 
