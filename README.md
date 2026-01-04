@@ -3,7 +3,6 @@
 > Ask questions about your documents locally - no cloud APIs needed. Upload PDFs, Word docs, or PowerPoints and get accurate answers powered by Ollama LLMs. Features semantic chunking via Docling, vector search with reranking, and both a web UI (Gradio) and REST API (FastAPI).
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Ollama](https://img.shields.io/badge/Ollama-Local%20LLM-orange.svg)
 
 ## ✨ Features
