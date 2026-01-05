@@ -20,8 +20,6 @@ nest_asyncio.apply()
 
 from llama_index.core import Settings
 
-# os.environ["LLAMA_CLOUD_API_KEY"] = "llx-Nf1vhdgHl1E0Zuw4aXRbsSWrw752nSO4PS3YQ7aGSjssbDBP"  
-
 # Configure LlamaIndex to use Ollama (free, local) instead of OpenAI
 Settings.embed_model = OllamaEmbedding(model_name="nomic-embed-text")
 Settings.llm = Ollama(model="qwen2.5:3b-instruct")
